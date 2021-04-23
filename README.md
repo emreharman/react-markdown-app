@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Markdown App with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Preview:
+
+![markdown](https://raw.githubusercontent.com/emreharman/react-markdown-app/master/src/img/markdown.gif)
 
 ## Available Scripts
 
